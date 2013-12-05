@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.278 0.278 0.278 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>MesloLGLDZ-Bold - 11.0</string>
+	<string>MesloLGL-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.278 0.278 0.278 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>MesloLGLDZ - 11.0</string>
+	<string>MesloLGL-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.323 0.475 0.706 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>MesloLGLDZ-Bold - 11.0</string>
+	<string>MesloLGL-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.278 0.278 0.278 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>MesloLGLDZ - 11.0</string>
+	<string>MesloLGL-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.278 0.278 0.278 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>MesloLGLDZ-Bold - 11.0</string>
+	<string>MesloLGL-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.987386 0.987356 0.987373 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.434 0.575 0.234 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.987386 0.987356 0.987373 1</string>
+	<string>1 0.99925 0.962379 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>MesloLGLDZ-Italic - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>MesloLGLDZ-Italic - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>MesloLGLDZ-Italic - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>MesloLGLDZ - 14.0</string>
+		<string>MesloLGL-Regular - 13.0</string>
 	</dict>
 </dict>
 </plist>
